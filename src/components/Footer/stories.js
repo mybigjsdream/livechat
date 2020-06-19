@@ -42,7 +42,7 @@ storiesOf("Components|Footer", module)
 							Forget/Remove my personal data
 						</Menu.Item>
 						<Menu.Item danger onClick={action("finish-chat")} icon={FinishIcon}>
-							退出聊天
+							Finish this chat
 						</Menu.Item>
 					</Menu.Group>
 				</FooterOptions>
